@@ -1,6 +1,6 @@
 ## Certified Kubernetes Administrator (CKA)
 
-### Pods
+### Pods contient un ou plusieurs conteneur (plus petite unité dans kubernetes)
 
 <details>
 <summary>Deploy a pod called web-1985 using the nginx:alpine image</code></summary><br><b>

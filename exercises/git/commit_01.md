@@ -5,7 +5,7 @@
 Learn how to commit changes in Git repositories
 
 ### Instructions
-
+NB: utiliser gitbach en tant que adminisrateur
 1. Create a new directory
 2. Make it a git repository
 3. Create a new file called `file` with the content "hello commit"
